@@ -1,0 +1,6 @@
+## Interface: 80205
+## Title: MassIgnore
+## Notes: Will mass ignore spammers
+## Version: 0.1
+
+main.lua

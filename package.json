@@ -1,0 +1,15 @@
+{
+  "name": "massignore",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tstl",
+    "dev": "tstl --watch"
+  },
+  "author": "Kevin Faulhaber",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript-to-lua": "^0.37.0"
+  }
+}
